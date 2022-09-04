@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#难背",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#背完",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 1.4,
+  "nodeSizeMultiplier": 1.3999265491453,
+  "lineSizeMultiplier": 0.738348023504274,
+  "collapse-forces": false,
+  "centerStrength": 0.321781517094017,
+  "repelStrength": 11.6666666666667,
+  "linkStrength": 0.786124465811966,
+  "linkDistance": 30,
+  "scale": 0.18677166329401587,
+  "close": true
+}
