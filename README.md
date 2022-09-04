@@ -5,7 +5,7 @@
 ## How to use?
 
 1. Git clone the latest version.
-2. Download Obsidean.app;
+2. Download [Obsidean.app](https://obsidian.md/download);
 3. Open this folder.
 
 ## Preview
