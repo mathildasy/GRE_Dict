@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "56dcaa582371a66b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8b4c7ff9189f99",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5063a3f89d7ea63",
+    "type": "split",
+    "children": [
+      {
+        "id": "21de36f0bf955971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c58abfaad1d4059b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3560324a73e5caae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.0019226074219
+  },
+  "right": {
+    "id": "064ebf9d81609db6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3c0fb4a780f1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7841f793bd87906",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb8b4c7ff9189f99",
+  "lastOpenFiles": [
+    "309.md",
+    "192.md",
+    "194.md",
+    "190.md",
+    "195.md",
+    "272.md",
+    "277.md",
+    "280.md",
+    "275.md",
+    "274.md"
+  ]
+}
